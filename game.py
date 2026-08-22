@@ -21,7 +21,7 @@ while True:
     	print("\nYou Win!")
     	break
     else:
-    	print("Computer Wins!")
+    	print("\nComputer Wins!")
     	break
 
 
